@@ -14,7 +14,7 @@ body {
 .esquerda{
     width: 40%;
     height: 100%;
-    background-color: cadetblue;
+    background-color: #3E823F;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -49,13 +49,13 @@ body {
 }
 
 .container .direita .formulario .topo h1 {
-    color: cadetblue;
+    color: #3E823F;
     font-size: 40px;
 
 }
 
 .container .direita .formulario .topo p{
-    color: cadetblue;
+    color: #3E823F;
     text-align: center;    
 }
 
@@ -81,7 +81,7 @@ body {
 }
 
 .container .direita .formulario .fim button{
-    background-color: cadetblue;
+    background-color: #3E823F;
     border: transparent;
     color: white;
     border-radius: 25px;
@@ -102,7 +102,7 @@ body {
 }
 
 .container .direita .formulario .topo .redes-sociais .icone{
-    border: 1px solid cadetblue;
+    border: 1px solid #3E823F;
     width: 40px;
     height: 40px;
     
